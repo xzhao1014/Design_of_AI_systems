@@ -1,4 +1,4 @@
-# Design_of_AI_sysytems
+# Design_of_AI_systems
 This repository is to manage the codes for various AI system design, these include,
 - Movie recommendation system by user-based collaborative filtering approach
 - Air pollution prediction system based on KNN classifier approach
